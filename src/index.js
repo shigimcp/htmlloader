@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// import HilitesJS from './html/hilites/scripts/default';
+
 ReactDOM.render(
     <React.StrictMode>
         <App />
