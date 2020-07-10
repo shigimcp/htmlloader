@@ -3,8 +3,8 @@
 //<!--/* ========================= HILITES ========================= */-->
 //<!--/* =========================================================== */-->
 
-// function loadBanner(thisElem, thisLink, mWdith, mHeight) {
-export function loadBanner(thisElem, thisLink, mWdith, mHeight) {
+function loadBanner(thisElem, thisLink, mWdith, mHeight) {
+// export function loadBanner(thisElem, thisLink, mWdith, mHeight) {
 
     console.log("loadBanner(thisElem) = " + thisElem.id);
     console.log("loadBanner(thisLink) = " + thisElem.link);
