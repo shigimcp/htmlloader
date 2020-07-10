@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8d7be6582eac22bb94890497f0b3ca8",
+    "revision": "3e6c3c1e27d12133bd38f32e55aa017e",
     "url": "/htmlloader/index.html"
   },
   {
-    "revision": "39323c8fc0e28b9b37b9",
-    "url": "/htmlloader/static/css/main.0bdea483.chunk.css"
+    "revision": "16366fed688c6cb7fb37",
+    "url": "/htmlloader/static/css/main.a10220b0.chunk.css"
   },
   {
     "revision": "400556484f40f7c9ce5c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/htmlloader/static/js/2.aa7a95db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39323c8fc0e28b9b37b9",
-    "url": "/htmlloader/static/js/main.9225238f.chunk.js"
+    "revision": "16366fed688c6cb7fb37",
+    "url": "/htmlloader/static/js/main.421638b1.chunk.js"
   },
   {
     "revision": "3d19dc773f3a242670a9",
@@ -52,6 +52,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/htmlloader/static/media/29709_WHITE_TEA_GWP_Walgreens_PR_300x250_01.ca04d15e.jpg"
   },
   {
+    "revision": "0ce31c37720fca284d3a153e21112e26",
+    "url": "/htmlloader/static/media/AnimeAceItalic.0ce31c37.woff"
+  },
+  {
+    "revision": "21a6df57090815d6d74cf61224e5f78f",
+    "url": "/htmlloader/static/media/AnimeAceItalic.21a6df57.svg"
+  },
+  {
+    "revision": "3d0b601a98ee8f5e85e8fd8087879bc3",
+    "url": "/htmlloader/static/media/AnimeAceItalic.3d0b601a.eot"
+  },
+  {
+    "revision": "7cec0659f6099d97e1ed436b9cd68227",
+    "url": "/htmlloader/static/media/AnimeAceItalic.7cec0659.otf"
+  },
+  {
     "revision": "f20b67f19aea8f43fa2d3f35dc3b2a7b",
     "url": "/htmlloader/static/media/CR_20741_FS_PRIMER_DIGITAL_PLAN_2H15_AU_300x250_03.f20b67f1.jpg"
   },
@@ -70,6 +86,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "85cc0597a438c35ae6b2139e68cfe7da",
     "url": "/htmlloader/static/media/CR_26378_EA_MULTI_SamsClub_300x250_03.85cc0597.jpg"
+  },
+  {
+    "revision": "4aec81cb02bbc8288c78e972dc510254",
+    "url": "/htmlloader/static/media/ChaleParNinSix.4aec81cb.eot"
+  },
+  {
+    "revision": "79d1c7fae668158f39567535e3f584c5",
+    "url": "/htmlloader/static/media/ChaleParNinSix.79d1c7fa.woff"
+  },
+  {
+    "revision": "9b757283e5c84912f06fa4a0ad0e846f",
+    "url": "/htmlloader/static/media/ChaleParNinSix.9b757283.otf"
+  },
+  {
+    "revision": "fc1bf3d8be9c31fa9980d5f2eaedeb2b",
+    "url": "/htmlloader/static/media/ChaleParNinSix.fc1bf3d8.svg"
   },
   {
     "revision": "391ee16e12458270980024c9cf94adcc",
